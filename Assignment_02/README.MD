@@ -1,5 +1,5 @@
 # Adding labels and information to a scene
-![Assignment02](assignment-02-LastName.v1.png)
+![Assignment02](assignment-02-LastName-v1.png)
 
 ## 1. Goals: 
 1. Importing textures and applying them to materials
