@@ -3,6 +3,8 @@
 ![Assignment02](assignment-02-LastName-v1.png)
 
 # Goals: 
-1. Importing textures and applying them to materials
-1. TextMesh Pro
-1. Adding information to the scene
+* Importing textures and applying them to materials
+* Creating materials with transparency
+* Importing and using TextMesh Pro
+* Adding information to scenes by using TextMesh Pro 
+* Adding relevant information to scenes by using images
